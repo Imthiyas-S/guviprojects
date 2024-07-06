@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "24201000000021001",
+      "name": "hospitalManagement",
+      "domain": {
+        "id": "10083659928",
+        "name": "hospitalmanagement-856127316.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "856127316",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
